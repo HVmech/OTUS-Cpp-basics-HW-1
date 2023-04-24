@@ -1,4 +1,5 @@
-# OTUS-Cpp-basics
+# OTUS-Cpp-basics (HW№1)
+
 Expirementall repository for basic OTUS Cpp course 
 
 The whole idea of this repository is to provide a shared platform for educational purposes:
